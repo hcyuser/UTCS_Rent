@@ -1,0 +1,1 @@
+<?php require_once('../user/show_photo.php');?>
